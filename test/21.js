@@ -1,1 +1,1 @@
-console.log('is that 阿 dog?')
+console.log('is that a dog?')
